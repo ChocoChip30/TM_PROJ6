@@ -1,4 +1,4 @@
-![5](https://github.com/ChocoChip30/TM_PROJ6/assets/155379882/bb0abc5e-85af-4e5b-8c63-995f7427f030)# TM_PROJ6
+# TM_PROJ6
 
 ![1](https://github.com/ChocoChip30/TM_PROJ6/assets/155379882/96e914d6-36ad-4484-8176-729f9841cf42)
 ![2](https://github.com/ChocoChip30/TM_PROJ6/assets/155379882/8aa344ea-9565-4388-b71c-9022e3897b31)
